@@ -1,4 +1,4 @@
-# Aplicativo Ateliê Azul
+# Aplicativo Veludo Azul
 
 Um aplicativo simples, com o intuito de adiministrar o serviço de uma oficina de costura.
 
